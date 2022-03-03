@@ -1,0 +1,3368 @@
+Date captured: Tue Sep 14 21:30:40 2021
+
+SOULAPI Version: 4.21.7.0-42e3d8ec 2020-07-15
+
+
+
+================================================================================
+Controller:    HPE Smart Array P816i-a SR Gen10	Slot:25
+
+Controller Attributes
+-----------------------------------------------
+	4k Raid Supported : False
+	Ace Enabled : True
+	Ace Supported : True
+	Adapter Type : Smart Array
+	All Ports Match : True
+	All Raid Rpi Supported : False
+	Alternate Msa Cache Algorithm : False
+	Alternate Msa Preferred Path Algorithm : False
+	Alternate Msa Surface Delay Algorithm : False
+	Array Count : 2
+	Backup Hardware Error : No Error
+	Backup Power And Green Backup Status Supported : True
+	Backup Power Status : Charged
+	Backup Power Type : Hpe Megacell
+	Battery Good Count : 1
+	Battery Pack Count : 1
+	Battery Status : Ok
+	Bit14 Miscflags Id Phys Drive Support : True
+	Bmic Sensor Supported : True
+	Boot Connector Supported : False
+	Boot Volume Primary : 600508B1001C925E0A4677EE7AB65E23
+	Boot Volume Secondary : 00000000000000000000000000000000
+	Boot Volume Supported : True
+	Bus Type : Pci
+	Cached Data Logical Drive Count : 0
+	Cache Array Count : 0
+	Cache Board Present : True
+	Cache Disabled : False
+	Cache Has Bbwc : True
+	Cache Logical Drive Count : 0
+	Cache Module Memory Data Width : 64
+	Cache Module Memory Transfer Rate : 2100
+	Cache Operations Supported : True
+	Cache Parity Read Errors : 0
+	Cache Parity Write Errors : 0
+	Cache Physical Drive Count : 0
+	Cache Ratio : 100 0
+	Cache Size Total : 7897088
+	Cache Size Total Bbbwc : 7897088
+	Cache Size Total Bbbwc Kb : 3948544
+	Cache Size Total Kb : 3948544
+	Cache Size Total Non Bbbwc : 0
+	Cache Size Total Non Bbbwc Kb : 0
+	Cache Status : Not Configured
+	Clear Controller Config Supported : True
+	Clear Nvram Supported : True
+	Connector Mode Runtime Change Supported : True
+	Controller Cache Serial Number : 
+	Controller Current Power Mw : 0
+	Controller Disabled Config Status : Ok
+	Controller Firmware Family : Luxor
+	Controller Has Unsupported Sas Drives : False
+	Controller I2c Enabled : False
+	Controller I2c Get Supported : True
+	Controller I2c Set Supported : True
+	Controller Mctp Bus : 100
+	Controller Mctp Device : 0
+	Controller Mctp Eid : 89
+	Controller Mctp Enabled : True
+	Controller Mctp Function : 0
+	Controller Mctp Get Supported : True
+	Controller Mctp Set Supported : True
+	Controller Memory Size : 8388608
+	Controller Memory Size Kb : 4194304
+	Controller Mode : Mixed
+	Controller Name : Smoky Mountains Pm8237 Aroc 16i
+	Controller Oem Id : Hpe
+	Controller Ofa Enabled : True
+	Controller Ofa Soft Reset Supported : False
+	Controller Ofa Supported : True
+	Controller Ofa Version : 2
+	Controller Port Rate Limit Supported : False
+	Controller Port Supports Hba : False
+	Controller Port Supports Mixed : True
+	Controller Port Supports Raid : False
+	Controller Product Id : P816i-a SR Gen10
+	Controller Sanitize Supported : True
+	Controller Serial Number : PWXLA0CRHEN0UF 
+	Controller Supports Bp Discovery Protocol Cmd Get Current : False
+	Controller Supports Bp Discovery Protocol Cmd Get Defaults : False
+	Controller Supports Bp Discovery Protocol Cmd Get Next Reboot : False
+	Controller Supports Bp Discovery Protocol Cmd Set Next Reboot : False
+	Controller Supports Bp Discovery Protocol Config : True
+	Controller Supports Nvme : False
+	Controller Temperature : 42
+	Controller Vendor Id : HPE
+	Controller Zmr Mode : False
+	Cpld Revision : 5
+	Cpu Revision : 32
+	Current Parallel Surface Scan Count : 1
+	Current Rebuild Mode : Automatic
+	Data Logical Drive Count : 2
+	Data Physical Drive Count : 10
+	Dcache Error Handling Supported : False
+	Ddff Version : Sas And Sata
+	Default Cache Ratio : ATTR_VALUE_CACHE_RATIO_10_90
+	Degraded Performance Optimization : Disabled
+	Degraded Performance Optimization Supported : True
+	Device Id : 2416247439
+	Device Id Hex : 9005028F
+	Diagnostic Mode Enabled : False
+	Driver Enables Hiwatt : False
+	Driver Name : smartpqi
+	Driver Supports Hiwatt : False
+	Driver Version : Linux 1.2.10-099
+	Drives Per Port : 256
+	Drive And Carrier Authentication Support : True
+	Drive Erase Enabled : True
+	Drive Erase On Hba : False
+	Drive Erase On Mixed : True
+	Drive Erase On Raid : True
+	Drive Erase Supported : True
+	Drive Write Cache Policy Support : True
+	Dual Domain Enabled : True
+	Dual Domain Supported : True
+	Dwc Policy Sas Hdd Configured : ATTR_VALUE_DWC_POLICY_DWC_DISABLE
+	Dwc Policy Sas Hdd Unconfigured : ATTR_VALUE_DWC_POLICY_DWC_DEFAULT
+	Dwc Policy Sas Ssd Configured : ATTR_VALUE_DWC_POLICY_DWC_DISABLE
+	Dwc Policy Sas Ssd Unconfigured : ATTR_VALUE_DWC_POLICY_DWC_DEFAULT
+	Dwc Policy Sata Hdd Configured : ATTR_VALUE_DWC_POLICY_DWC_DISABLE
+	Dwc Policy Sata Hdd Unconfigured : ATTR_VALUE_DWC_POLICY_DWC_DEFAULT
+	Dwc Policy Sata Ssd Configured : ATTR_VALUE_DWC_POLICY_DWC_DISABLE
+	Dwc Policy Sata Ssd Unconfigured : ATTR_VALUE_DWC_POLICY_DWC_DEFAULT
+	Dwc Policy Supports Configured : True
+	Dwc Policy Supports Hba : False
+	Dwc Policy Supports Nvme : False
+	Dwc Policy Supports Sas : True
+	Dwc Policy Supports Sata : True
+	Dwc Policy Supports Unconfigured : True
+	Elevator Sort : Enabled
+	Enable Disable Right Phys Supported : False
+	Encrypted Data Logical Drive Count : 0
+	Encryption Acoustics Mixing Supported : True
+	Encryption Boot Password Set : False
+	Encryption Boot Password Unlock Attempts : 0
+	Encryption Controller Locked : False
+	Encryption Controller Password Enabled : False
+	Encryption Crypto Officer Password Set : False
+	Encryption Csp Nvram Status : Passed
+	Encryption Dynamic Roles Supported : False
+	Encryption Enabled : False
+	Encryption Feature Breakout Supported : True
+	Encryption Feature Enabled Allow Plaintext Volumes : True
+	Encryption Feature Enabled Boot Password : True
+	Encryption Feature Enabled Boot Time Remote Auth : True
+	Encryption Feature Enabled Configurable User Roles : True
+	Encryption Feature Enabled Crypto Erase : True
+	Encryption Feature Enabled Data Rekey : True
+	Encryption Feature Enabled Destructive Encode : True
+	Encryption Feature Enabled Disable Encryption On Unit : True
+	Encryption Feature Enabled Drive Rekey : True
+	Encryption Feature Enabled Encode : True
+	Encryption Feature Enabled Encryption Disable : True
+	Encryption Feature Enabled Firmware Lock : True
+	Encryption Feature Enabled Import Foreign Keys : True
+	Encryption Feature Enabled Key Manager Conversion : True
+	Encryption Feature Enabled Local Express : True
+	Encryption Feature Enabled Local Key Cache : True
+	Encryption Feature Enabled Local Mode : True
+	Encryption Feature Enabled Master Key Rekey : True
+	Encryption Feature Enabled Password Recovery User Role : True
+	Encryption Feature Enabled Pause Resume Boot Password : True
+	Encryption Feature Enabled Remote Mode : True
+	Encryption Feature Enabled Return To Factory : True
+	Encryption Feature Enabled Users : True
+	Encryption Feature Enabled Volatile Keys : True
+	Encryption Fw Locked : False
+	Encryption Has Locked Volumes Missing Boot Password : False
+	Encryption Has Suspended Boot Password : False
+	Encryption Hiwatt Mixing Supported : True
+	Encryption Ikey Rekey In Progress : False
+	Encryption Keymanager Mode Conversion Supported : True
+	Encryption Key Manager Retrieval Status : Not Needed
+	Encryption Ldrives Disabled Bad Boot Password : False
+	Encryption Ldrives Disabled Dek Wont Decrypt : False
+	Encryption Ldrives Disabled Ikek Mismatch : False
+	Encryption Ldrives Disabled Key Missing From Eskm : False
+	Encryption Ldrives Disabled Key Retreival Connectivity Error : False
+	Encryption Local Kek Cache Retry Attempts : 0
+	Encryption Local Kek Cache Retry Interval : 0
+	Encryption Local Kek Set : False
+	Encryption Local Key Cache Enabled : False
+	Encryption Local Key Cache Persistent : False
+	Encryption Local Key Cache Supported : True
+	Encryption Lockout Seconds Remaining Crypto : 0
+	Encryption Lockout Seconds Remaining User : 0
+	Encryption Mixed Volumes Enabled : False
+	Encryption Mode : Bypass
+	Encryption One Button Mode : False
+	Encryption Password Unlock Attempts Remaining Crypto : 10
+	Encryption Password Unlock Attempts Remaining User : 10
+	Encryption Reason Rtf : Not Me
+	Encryption Recovery Params Set : False
+	Encryption Remote Kek Set : False
+	Encryption Remote Mode Key Mismatch : False
+	Encryption Rtc Sram Status : Passed
+	Encryption Selftest Status : Passed
+	Encryption Skip Controller Password Enabled : False
+	Encryption Skip Controller Password Supported : True
+	Encryption Standalone Mode Enabled : False
+	Encryption Supported : True
+	Encryption User Password Set : False
+	Encryption Volume Creation Enabled : False
+	Enhanced Rpi Supported : True
+	Expand Priority : Medium
+	Fail Drives With Smart Errors : Disabled
+	Family Id : Smart Array
+	Family Id Supported : True
+	Firmware Allows Recover Cache Module : False
+	Firmware Can Wait For Cache Room : True
+	Firmware Compile Stamp : Feb 10 2021 13:31:43
+	Firmware Part Number : 836261-002
+	Firmware Request Coalescing : True
+	Firmware Supports Configuring Raid1 Write Buffering : False
+	Firmware Supports Inconsistency Event Notification Control : True
+	Firmware Supports Nobattery Write Cache : True
+	Firmware Supports Raid1 Write Buffering : True
+	Firmware Supports Reorder Command : True
+	Firmware Version : 3.53
+	Firmware Version Pending : 3.53
+	Flashlight Supported : False
+	Flexible Latency Scheduler Setting : Default
+	Flexible Latency Scheduler Supported : True
+	Gasgauge Supported : True
+	Greater Than 2tib Physical Drives Supported : True
+	Green Backup Preservation Enable : True
+	Green Backup Preservation Set : False
+	Green Backup Version Major : 6
+	Green Backup Version Minor : 6
+	Hardware Revision : A
+	Has Splitcache : False
+	Has Swapped Cable Flags : False
+	Hba Encryption Supported : False
+	Hba Mixed Mode Supported : True
+	Hba Mode Led Support : True
+	Hba Mode Physical Drive Count : 0
+	Hba Mode Supported : True
+	Host Serial Number : SGH109S5FF                      
+	Hotplug Supported : True
+	Icache Error Handling Supported : False
+	Inactive Firmware Revision : 3.53
+	Inconsistency Repair Policy : Disabled
+	Inconsistency Repair Policy Supported : True
+	Io Bypass Supported : True
+	Is Adg Supported : True
+	Is Rollback Supported : True
+	Is Software Raid : False
+	Is Tofu Supported : False
+	Large Write Cache Bypass Threshold Size : 65
+	Large Write Cache Bypass Threshold Supported : True
+	Last Backup Time : 0
+	Last Restore Time : 0
+	License Keys Supported : True
+	Logical Drive Count : 2
+	Logical Drive Erase Supported : False
+	Long Box Connector Name Supported : True
+	Long Connector Names Supported : True
+	Lun Profiling Enabled : True
+	Lun Profiling Supported : True
+	Marketing Name : HPE Smart Array P816i-a SR Gen10
+	Max Drives Per Array : 128
+	Max License Keys Reached : False
+	Max Logical Volumes : 64
+	Max Parallel Surface Scan Count : 16
+	Max Safe Full Stripe Size : 24576
+	Max Safe Full Stripe Size Kb : 12288
+	Minimum Memory Raid : False
+	Min Parity Strip Size : 32
+	Min Raid 0 1 Strip Size : 32
+	Min Strip Size Supported : True
+	Missing Drive Count Supported : True
+	Mnp Delay : 60
+	Modify Rebuild Mode Supported : True
+	Move Lun Enabled : True
+	Move Lun Supported : True
+	Mpg Supported : True
+	Multi Path Supported : True
+	Ncq Supported : True
+	Notify Driver On Event : False
+	Notify Driver On Event Supported : True
+	No Battery Write Cache : Disabled
+	Nvram Checksum Status : Ok
+	Nway Mirroring Enabled : True
+	Nway Mirroring Supported : True
+	Ofa Status : Not Running
+	Online Split Mirror Enabled : True
+	Online Split Mirror Supported : True
+	Oob Messaging Interface Supported : False
+	Overprovisioning Optimization Supported : True
+	Parallel Surface Scan Supported : True
+	Parity Raid Supported : True
+	Pcie Gen : Gen3
+	Pcie Width : 8
+	Pci Bus : 100
+	Pci Device : 0
+	Pci Domain : 0
+	Pci Function : 0
+	Pending Sanitize Lock : None
+	Physical Drive Count : 10
+	Pms Running : False
+	Ports : 4
+	Ports External : 0
+	Ports Internal : 4
+	Port Mode Changed Without User Input : False
+	Port Mode Conflict User Input Required : False
+	Post Prompt Timeout : 0
+	Power Consumption : 10800
+	Power Mode Configured : ATTR_VALUE_POWER_MODE_PERFORMANT
+	Power Mode Default : ATTR_VALUE_POWER_MODE_PERFORMANT
+	Power Mode Low Automated Supported : True
+	Power Mode Low Supported : True
+	Power Mode Operational : ATTR_VALUE_POWER_MODE_PERFORMANT
+	Power Mode Performant Supported : True
+	Power Mode Supported : True
+	Power Mode Warning Changed Drive : False
+	Power Mode Warning Changed Mode : False
+	Power Mode Warning Reboot : Not Required
+	Power Mode Warning Temperature : False
+	Predictive Spare Rebuild : Disabled
+	Predictive Spare Rebuild Supported : True
+	Queue Depth : Automatic
+	Raid1 Write Buffering : False
+	Raid 01 Stripe Size : 65535
+	Raid 45 Stripe Size : 2048
+	Raid 50 Enabled : True
+	Raid 50 Supported : True
+	Raid 60 Enabled : True
+	Raid 60 Supported : True
+	Raid 6 Stripe Size : 2048
+	Rapid Parity Initialization Supported : True
+	Rapid Rebuild Supported : True
+	Reboot Required For Backplane Discovery Protocol : False
+	Rebuild Priority : Rapid High
+	Recovery Rom Active Image : A
+	Recovery Rom Supported : True
+	Redundant Paths To All Drives : False
+	Redundant Paths To Some Drives : False
+	Requery Command Supported : True
+	Roaming Spares Supported : True
+	Sanitize Lock : None
+	Sanitize Lock Antifreeze Supported : True
+	Sanitize Lock Changed : False
+	Sanitize Lock Freeze Supported : True
+	Sanitize On Hba : True
+	Sanitize On Mixed : True
+	Sanitize On Raid : True
+	Sed Info Supported : False
+	Sense Support Raid Migration : True
+	Sense Support Stripe Migration : True
+	Sense Support Volume Expansion : True
+	Sense Support Volume Extension : True
+	Signed Firmware Bypass : False
+	Signed Firmware Required : True
+	Slot : 25
+	Smart Hba Mode Supported : True
+	Smr Virtualization Supported : False
+	Spare Physical Drive Count : 0
+	Split Mirror Enabled : True
+	Split Mirror Supported : True
+	Ssd Caching 128kb Cache Line Supported : False
+	Ssd Caching 256kb Cache Line Supported : True
+	Ssd Caching 4k Cache Vols Supported : False
+	Ssd Caching 4k Data Vols Supported : False
+	Ssd Caching 64kb Cache Line Supported : True
+	Ssd Caching Algo0 Bytes Per Cache Line : 50
+	Ssd Caching Algo0 Datavols Per Cachevol : 1
+	Ssd Caching Algo0 Fixed Header Size : 17276
+	Ssd Caching Algo0 Maxcachevol Bits : 27
+	Ssd Caching Algo0 Maxdatavol Bits : 32
+	Ssd Caching Algo0 Type : 1
+	Ssd Caching Algo1 Bytes Per Cache Line : 58
+	Ssd Caching Algo1 Datavols Per Cachevol : 1
+	Ssd Caching Algo1 Fixed Header Size : 17348
+	Ssd Caching Algo1 Maxcachevol Bits : 27
+	Ssd Caching Algo1 Maxdatavol Bits : 32
+	Ssd Caching Algo1 Type : 2
+	Ssd Caching Config Cache Line Supported : True
+	Ssd Caching Enabled : True
+	Ssd Caching Max Cacheable Data Volume Size Kb : 1099511627776
+	Ssd Caching Max Strip Size Kb : 256
+	Ssd Caching Memory Available : 1825734656
+	Ssd Caching Memory Used : 0
+	Ssd Caching Min Cacheable Data Volume Size Kb : 16777216
+	Ssd Caching Min Strip Size Kb : 8
+	Ssd Caching Raid1 Raid10 Enabled : True
+	Ssd Caching Raid5 Raid50 Enabled : False
+	Ssd Caching Raid5 Writeback Enabled : True
+	Ssd Caching Raid6 Raid60 Enabled : False
+	Ssd Caching Supported : True
+	Ssd Caching Version : 2
+	Status : Ok
+	Subsystem Id : 272371968
+	Subsystem Id Hex : 103C1100
+	Supercap Temperature : 37
+	Surface Analysis Delay : 3
+	Surface Analysis Delay Extended : 30
+	Surface Analysis Inconsistency Event Notification : False
+	Surface Analysis Mode Aggressive : False
+	Surface Analysis Requires Fw Update : False
+	Survival Mode Configurable : True
+	Survival Mode Enabled : True
+	Survival Mode Supported : True
+	Total Number Of Backups : 0
+	Transformation Cache Size : 262144
+	Transformation Cache Size Kb : 131072
+	Type : Array Controller
+	Unassigned Physical Drive Count : 0
+	Unique Id : AC:28023942
+	Vod Enabled : True
+	Vod Supported : True
+	Wait For Cache Room : False
+	Wwn Port : 51402EC0164DA8A0
+	Zoning Enabled : False
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_ARRAY_CONTROLLER Supported Operations
+	--------------------------------------------------
+		Discover Arrays
+		Discover Expanders
+		Discover External Array Controllers
+		Discover Licensed Feature
+		Discover License Keys
+		Discover Physical Drives
+		Discover Ports
+		Discover Remote Volumes
+		Discover Sensors
+		Discover Seps
+		Discover Storage Enclosures
+		Discover Storage Volumes
+		Discover Tape Drives
+		Read Array Controller Info
+		...............................................................
+         Class: ATTR_NAME_RAID 
+                     Instance: ATTR_VALUE_RAID_0
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_1
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_1ADM
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_10
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_10ADM
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_5
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_6
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_50
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_60
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+
+		Read Configuration Data
+		Read Controller Ofa Status
+		Read Debug Log
+		...............................................................
+         Class: ATTR_NAME_LOG_TYPE 
+                     Instance:	 ATTR_VALUE_LOG_TYPE_LAST_CRASH_DUMP (default)
+                                 Class: ATTR_NAME_CLEAR_LOG 
+                                             Instance: ATTR_VALUE_CLEAR_LOG_TRUE
+                                             Instance:	 ATTR_VALUE_CLEAR_LOG_FALSE (default)
+                     Instance: ATTR_VALUE_LOG_TYPE_PAL_SHIM_LOG
+
+		Read Device Diagnostic Info
+		Read Device Led Info
+		Read Pms Data
+		...............................................................
+         Class: ATTR_NAME_RESET_PMS_COUNTERS 
+                     Instance: ATTR_VALUE_RESET_PMS_COUNTERS_TRUE
+                     Instance:	 ATTR_VALUE_RESET_PMS_COUNTERS_FALSE (default)
+         Class: ATTR_NAME_PMS_DATA_TYPE 
+                     Instance:	 ATTR_VALUE_PMS_DATA_TYPE_AVERAGES (default)
+                     Instance: ATTR_VALUE_PMS_DATA_TYPE_RAW
+
+		Read Scsi Command
+		Write Bmic Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Rescan Physical Devices
+		Write Set Pms State
+		...............................................................
+         Class: ATTR_NAME_PMS_STATE 
+                     Instance: ATTR_VALUE_PMS_STATE_ENABLED
+                     Instance: ATTR_VALUE_PMS_STATE_DISABLED
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Read Array Controller Bootable Status :	Ev Not Supported
+		Write Cache Settings :	Device Not Yet Cached
+		Write Recover Cache Module :	Not Applicable
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PORT 
+================================================================
+
+	Port Connection Number : 0
+	Port Has One Mode : True
+	Port Id : 0
+	Port Is Boot Connector : False
+	Port Location : Internal
+	Port Mode : Mixed
+	Port Mode Changed : False
+	Port Mode Support Bitmap : 4
+	Port Name : 1I
+	Sas Address : 51402EC0164DA8A0
+	Type : Port
+	Unique Id : AC:28023942,Port:0
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PORT Supported Operations
+	--------------------------------------------------
+		Read Port Info
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,PD:2
+			AC:28023942,PD:3
+		Storage Enclosure Port
+			AC:28023942,SE:AC:2802394200
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PORT 
+================================================================
+
+	Port Connection Number : 1
+	Port Has One Mode : True
+	Port Id : 1
+	Port Is Boot Connector : False
+	Port Location : Internal
+	Port Mode : Mixed
+	Port Mode Changed : False
+	Port Mode Support Bitmap : 4
+	Port Name : 2I
+	Sas Address : 51402EC0164DA8A4
+	Type : Port
+	Unique Id : AC:28023942,Port:1
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PORT Supported Operations
+	--------------------------------------------------
+		Read Port Info
+
+
+	Device Associations
+	--------------------------------------
+		Storage Enclosure Port
+			AC:28023942,SE:AC:2802394210
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PORT 
+================================================================
+
+	Port Connection Number : 2
+	Port Has One Mode : True
+	Port Id : 2
+	Port Is Boot Connector : False
+	Port Location : Internal
+	Port Mode : Mixed
+	Port Mode Changed : False
+	Port Mode Support Bitmap : 4
+	Port Name : 3I
+	Sas Address : 51402EC0164DA8A8
+	Type : Port
+	Unique Id : AC:28023942,Port:2
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PORT Supported Operations
+	--------------------------------------------------
+		Read Port Info
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,PD:8
+			AC:28023942,PD:9
+			AC:28023942,PD:10
+			AC:28023942,PD:11
+		Storage Enclosure Port
+			AC:28023942,SE:AC:2802394220
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PORT 
+================================================================
+
+	Port Connection Number : 3
+	Port Has One Mode : True
+	Port Id : 3
+	Port Is Boot Connector : False
+	Port Location : Internal
+	Port Mode : Mixed
+	Port Mode Changed : False
+	Port Mode Support Bitmap : 4
+	Port Name : 4I
+	Sas Address : 51402EC0164DA8AC
+	Type : Port
+	Unique Id : AC:28023942,Port:3
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PORT Supported Operations
+	--------------------------------------------------
+		Read Port Info
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,PD:12
+			AC:28023942,PD:13
+			AC:28023942,PD:14
+			AC:28023942,PD:15
+		Storage Enclosure Port
+			AC:28023942,SE:AC:2802394230
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_SENSOR 
+================================================================
+
+	Sensor Current Value : 37
+	Sensor Id : 0
+	Sensor Location : Capacitor
+	Sensor Max Value Since Power On : 40
+	Type : Sensor
+	Unique Id : AC:28023942,Sensor:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_SENSOR 
+================================================================
+
+	Sensor Current Value : 42
+	Sensor Id : 1
+	Sensor Location : Asic
+	Sensor Max Value Since Power On : 46
+	Type : Sensor
+	Unique Id : AC:28023942,Sensor:1
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_SENSOR 
+================================================================
+
+	Sensor Current Value : 38
+	Sensor Id : 2
+	Sensor Location : Unknown
+	Sensor Max Value Since Power On : 41
+	Type : Sensor
+	Unique Id : AC:28023942,Sensor:2
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_LICENSED_FEATURE 
+================================================================
+
+	Feature Mask : Full Version
+	Licensed Feature Enable Method : Builtin
+	Licensed Feature Name : Smart Cache
+	Licensed Feature Status : Active
+	Type : Licensed Feature
+	Unique Id : AC:28023942,LF:SAF AP02
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE 
+================================================================
+
+	Backplane Pic Present : False
+	Box : 2
+	Box Index : 0
+	Location : Internal
+	Marketing Name : Storage Enclosure
+	Port : 1I
+	Serial Number : 
+	Status : Ok
+	Type : Storage Enclosure
+	Unique Id : AC:28023942,SE:AC:2802394200
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE Supported Operations
+	--------------------------------------------------
+		Discover Drive Cages
+		Discover Expanders
+		Discover Non Smartarray Physical Drives
+		Discover Seps
+		Read Device Diagnostic Info
+		Read Storage Enclosure Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Enclosure Port
+			AC:28023942,Port:0
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DRIVE_CAGE 
+================================================================
+
+	Drive Bays : 4
+	Port : 1I
+	Status : Ok
+	Type : Drive Cage
+	Unique Id : AC:28023942,DC:001I
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_DRIVE_CAGE Supported Operations
+	--------------------------------------------------
+		Discover Physical Drives
+		Discover Tape Drives
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 2
+	Block Size : 512
+	Box : 2
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 2
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 0
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B00869850
+	Drive Unique Id Long : 50000F0B008698506193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 27
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 240685850760
+	Mnp Sectors Written : 27781912940
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 1I:2:2
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 1I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800685
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:2
+	Unsupported Config Member : False
+	Wwid : 50000F0B00869852
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:0
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:2,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:2,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 1
+	Block Size : 512
+	Box : 2
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 3
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 0
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B00869830
+	Drive Unique Id Long : 50000F0B008698306193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 27
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 239843804015
+	Mnp Sectors Written : 27785449157
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 1I:2:1
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 1I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800683
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:3
+	Unsupported Config Member : False
+	Wwid : 50000F0B00869832
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:0
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:3,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:3,PY:1
+
+
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE 
+================================================================
+
+	Backplane Pic Present : False
+	Box : 0
+	Box Index : 1
+	Location : Internal
+	Marketing Name : Storage Enclosure
+	Port : 2I
+	Serial Number : 
+	Status : Ok
+	Type : Storage Enclosure
+	Unique Id : AC:28023942,SE:AC:2802394210
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE Supported Operations
+	--------------------------------------------------
+		Discover Drive Cages
+		Discover Expanders
+		Discover Non Smartarray Physical Drives
+		Discover Seps
+		Read Device Diagnostic Info
+		Read Storage Enclosure Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Enclosure Port
+			AC:28023942,Port:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DRIVE_CAGE 
+================================================================
+
+	Drive Bays : 4
+	Port : 2I
+	Status : Ok
+	Type : Drive Cage
+	Unique Id : AC:28023942,DC:102I
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_DRIVE_CAGE Supported Operations
+	--------------------------------------------------
+		Discover Physical Drives
+		Discover Tape Drives
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE 
+================================================================
+
+	Backplane Pic Present : False
+	Box : 1
+	Box Index : 2
+	Location : Internal
+	Marketing Name : Storage Enclosure
+	Port : 3I
+	Serial Number : 
+	Status : Ok
+	Type : Storage Enclosure
+	Unique Id : AC:28023942,SE:AC:2802394220
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE Supported Operations
+	--------------------------------------------------
+		Discover Drive Cages
+		Discover Expanders
+		Discover Non Smartarray Physical Drives
+		Discover Seps
+		Read Device Diagnostic Info
+		Read Storage Enclosure Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Enclosure Port
+			AC:28023942,Port:2
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DRIVE_CAGE 
+================================================================
+
+	Drive Bays : 4
+	Port : 3I
+	Status : Ok
+	Type : Drive Cage
+	Unique Id : AC:28023942,DC:203I
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_DRIVE_CAGE Supported Operations
+	--------------------------------------------------
+		Discover Physical Drives
+		Discover Tape Drives
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 4
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 23
+	Device Number : 8
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 2
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B008698A0
+	Drive Unique Id Long : 50000F0B008698A06193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 30
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 237581164099
+	Mnp Sectors Written : 27787807717
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 3I:1:4
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 3I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800690
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:8
+	Unsupported Config Member : False
+	Wwid : 50000F0B008698A2
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:2
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:8,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:8,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 3
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 9
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 2
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B00869390
+	Drive Unique Id Long : 50000F0B008693906193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 27
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 236955340714
+	Mnp Sectors Written : 27787028488
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 3I:1:3
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 3I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800609
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:9
+	Unsupported Config Member : False
+	Wwid : 50000F0B00869392
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:2
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:9,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:9,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 2
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 25
+	Device Number : 10
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 2
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : ATA     MK001920GXAWR   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : D20E5437E9F5A1CA
+	Drive Unique Id Long : D20E5437E9F5A1CAB11B0AE17E81504F
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2937
+	Exinfo Ssd Remaining Days Until Wearout : 305815
+	Exinfo Ssd Utilization : 0.040000
+	Exinfo Supported : True
+	Firmware Revision : HPG0    
+	Interface : Sata Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 4080218940
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 32
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 0
+	Mnp Sectors Read : 32423936597
+	Mnp Sectors Written : 24266699899
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 3I:1:2
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Ncq Capable : True
+	Ncq Enabled : True
+	Phy Count : 1
+	Port : 3I
+	Port Mode : Mixed
+	Protocol : Sata
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 180
+	Sanitize Lock : None
+	Sanitize Lock Antifreeze Error : False
+	Sanitize Lock Antifreeze Supported : True
+	Sanitize Lock Freeze Error : False
+	Sanitize Lock Freeze Supported : True
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number : 21042CE583F0        
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 3750748848
+	Total Kb : 1875374424
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:10
+	Unsupported Config Member : False
+	Wwid : 31402EC0164DA8AA
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Send Ata Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:2
+		Data Drive
+			AC:28023942,A:0
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 6 0 Gbps
+	Negotiated Link Rate : 6 0 Gbps
+	Negotiated Physical Link Rate : 6 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:10,PY:0
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 1
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 25
+	Device Number : 11
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 2
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : ATA     MK001920GXAWR   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 8D1A7ADE52769472
+	Drive Unique Id Long : 8D1A7ADE52769472882AFA5B146CCBEF
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2937
+	Exinfo Ssd Remaining Days Until Wearout : 305815
+	Exinfo Ssd Utilization : 0.040000
+	Exinfo Supported : True
+	Firmware Revision : HPG0    
+	Interface : Sata Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 4080218940
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 32
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 0
+	Mnp Sectors Read : 32421062557
+	Mnp Sectors Written : 24266380534
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 3I:1:1
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Ncq Capable : True
+	Ncq Enabled : True
+	Phy Count : 1
+	Port : 3I
+	Port Mode : Mixed
+	Protocol : Sata
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 180
+	Sanitize Lock : None
+	Sanitize Lock Antifreeze Error : False
+	Sanitize Lock Antifreeze Supported : True
+	Sanitize Lock Freeze Error : False
+	Sanitize Lock Freeze Supported : True
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number : 21042CE583F4        
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 3750748848
+	Total Kb : 1875374424
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:11
+	Unsupported Config Member : False
+	Wwid : 31402EC0164DA8AB
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Send Ata Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:2
+		Data Drive
+			AC:28023942,A:0
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 6 0 Gbps
+	Negotiated Link Rate : 6 0 Gbps
+	Negotiated Physical Link Rate : 6 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:11,PY:0
+
+
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE 
+================================================================
+
+	Backplane Pic Present : False
+	Box : 1
+	Box Index : 3
+	Location : Internal
+	Marketing Name : Storage Enclosure
+	Port : 4I
+	Serial Number : 
+	Status : Ok
+	Type : Storage Enclosure
+	Unique Id : AC:28023942,SE:AC:2802394230
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_ENCLOSURE Supported Operations
+	--------------------------------------------------
+		Discover Drive Cages
+		Discover Expanders
+		Discover Non Smartarray Physical Drives
+		Discover Seps
+		Read Device Diagnostic Info
+		Read Storage Enclosure Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Enclosure Port
+			AC:28023942,Port:3
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DRIVE_CAGE 
+================================================================
+
+	Drive Bays : 4
+	Port : 4I
+	Status : Ok
+	Type : Drive Cage
+	Unique Id : AC:28023942,DC:304I
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_DRIVE_CAGE Supported Operations
+	--------------------------------------------------
+		Discover Physical Drives
+		Discover Tape Drives
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 5
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 12
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 3
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B008698D0
+	Drive Unique Id Long : 50000F0B008698D06193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 30
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 236965959835
+	Mnp Sectors Written : 27784359163
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 4I:1:5
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 4I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800693
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:12
+	Unsupported Config Member : False
+	Wwid : 50000F0B008698D2
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:3
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:12,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:12,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 6
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 13
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 3
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B008696D0
+	Drive Unique Id Long : 50000F0B008696D06193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 28
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 237603878058
+	Mnp Sectors Written : 27787297520
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 4I:1:6
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 4I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800661
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:13
+	Unsupported Config Member : False
+	Wwid : 50000F0B008696D2
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:3
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:13,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:13,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 7
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 14
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 3
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B00869770
+	Drive Unique Id Long : 50000F0B008697706193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 27
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 238463155132
+	Mnp Sectors Written : 27788694666
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 4I:1:7
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 4I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800671
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:14
+	Unsupported Config Member : False
+	Wwid : 50000F0B00869772
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:3
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:14,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:14,PY:1
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE 
+================================================================
+
+	Bay : 8
+	Block Size : 512
+	Box : 1
+	Carrier Application Version : 11
+	Carrier Authentication Status : Ok
+	Carrier Bootloader Version : 6
+	Current Temperature : 22
+	Device Number : 15
+	Drive Authentication Status : Ok
+	Drive Connector Dual Domain : False
+	Drive Connector Phy0 : 3
+	Drive Connector Phy1 : 255
+	Drive Connector Phy2 : 255
+	Drive Connector Phy3 : 255
+	Drive Exposed To Os : False
+	Drive Model : HPE     VO015360JWZJN   
+	Drive On Boot Connector : False
+	Drive Ports Match : True
+	Drive Requires Fw Update : False
+	Drive Supports Write Buffer Mode 5 : True
+	Drive Supports Write Buffer Mode 7 : True
+	Drive Type : Data
+	Drive Unique Id : 50000F0B00869380
+	Drive Unique Id Long : 50000F0B008693806193000850000F0B
+	Exinfo Has 56day Warning : False
+	Exinfo Has Smart Trip Ssd Wearout : False
+	Exinfo Has Utilization Warning : None
+	Exinfo Log Full : False
+	Exinfo Power On Hours : 2942
+	Exinfo Ssd Remaining Days Until Wearout : 612794
+	Exinfo Ssd Utilization : 0.020000
+	Exinfo Supported : True
+	Firmware Revision : HPD4
+	Interface : Sas Ssd
+	Last Failure Reason : No Failure
+	Location Hint : None
+	Marketing Blocks : 32856499820
+	Masked From Hba Has Ris : False
+	Maximum Temperature : 27
+	Media Type : Ssd
+	Mnp Aborted Commands : 0
+	Mnp Bad Target Errors : 0
+	Mnp Ecc Recovered Read Errors : 0
+	Mnp Failed Read Recovers : 0
+	Mnp Failed Write Recovers : 0
+	Mnp Format Errors : 0
+	Mnp Hardware Errors : 0
+	Mnp Hard Read Errors : 0
+	Mnp Hard Write Errors : 0
+	Mnp Hot Plug Count : 0
+	Mnp Media Failures : 0
+	Mnp Not Ready Errors : 0
+	Mnp Other Time Outs : 0
+	Mnp Predictive Failures : 0
+	Mnp Retry Recovered Read Errors : 0
+	Mnp Retry Recovered Write Errors : 0
+	Mnp Scsi Bus Faults : 21
+	Mnp Sectors Read : 239311203650
+	Mnp Sectors Written : 27803180253
+	Mnp Service Hours : 2820
+	Multi Domain Path 0 : 4I:1:8
+	Multi Domain Path Active Path : 0
+	Multi Domain Path Total Paths : 1
+	Multi Domain Status : Ok
+	Native Block Size : 4096
+	Phy Count : 2
+	Port : 4I
+	Port Mode : Mixed
+	Protocol : Sas
+	Ris Blocks : 65536
+	Ris Kb : 32768
+	Rpi Capable : True
+	Sanitize Crypto Scramble Estimated Time : 655
+	Sanitize Erase Supported : True
+	Sanitize Estimated Time : 56
+	Sanitize Method Block Erase Supported : True
+	Sanitize Method Crypto Scramble Supported : True
+	Sanitize Method Overwrite Supported : False
+	Sanitize Unrestricted Supported : True
+	Sanitize Whitelisted Drive : True
+	Serial Number :       S5KZNE0N800608
+	Shingled Magnetic Recording Support : None
+	Stamped : Yes
+	Status : Ok
+	Temperature Threshold : 60
+	Total Blocks : 30001856512
+	Total Kb : 15000928256
+	Type : Physical Drive
+	Unique Id : AC:28023942,PD:15
+	Unsupported Config Member : False
+	Wwid : 50000F0B00869382
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_PHYSICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Phys
+		Read Device Diagnostic Info
+		Read Physical Drive Extra Info
+		Read Physical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Fail Physical Drive
+		Write Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Send Ata Command :	Not Applicable
+		Association Physical Drive Physical Drive :	Not Applicable
+			Comment: Device is not a spare drive - ATTR_NAME_DRIVE_TYPE != ATTR_VALUE_DRIVE_TYPE_SPARE
+
+
+
+	Device Associations
+	--------------------------------------
+		Port Device
+			AC:28023942,Port:3
+		Data Drive
+			AC:28023942,A:1
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 65534
+	Attached Device Type : 7
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : 12 0 Gbps
+	Negotiated Physical Link Rate : 12 0 Gbps
+	Phy Number : 0
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:15,PY:0
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_PHY 
+================================================================
+
+	Attached Bmic Index : 0
+	Attached Device Type : 0
+	Maximum Link Rate : 12 0 Gbps
+	Negotiated Link Rate : Unknown
+	Negotiated Physical Link Rate : Unknown
+	Phy Number : 1
+	Status : Ok
+	Type : Phy
+	Unique Id : AC:28023942,PD:15,PY:1
+
+
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_VOLUME 
+================================================================
+
+	Block Size : 512
+	Cylinders : 65535
+	Drive Access Name : &#x2F;dev&#x2F;sda
+	Heads : 255
+	Native Block Size : 4096
+	Sectors : 63
+	Type : Storage Volume
+	Unique Id : AC:28023942,SV:600508B1001C925E0A4677EE7AB65E23
+	Useable Blocks : 3750683312
+	Useable Bytes : 1920349855744
+	Volume Bus Type : Raid
+	Volume Model : HPE     LOGICAL VOLUME
+	Volume Serial Number : PWXLA0CRHEN0UF
+	Volume Unique Identifier : 600508B1001C925E0A4677EE7AB65E23
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_VOLUME Supported Operations
+	--------------------------------------------------
+		Discover Disk Extents
+
+
+	Device Associations
+	--------------------------------------
+		Storage Volume Device
+			AC:28023942,LD:0
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DISK_EXTENT 
+================================================================
+
+	Disk Extent Guid : 
+	Disk Extent Mount Point : &#x2F;boot&#x2F;efi
+	Disk Extent Name : 
+	Disk Extent Number : 1
+	Disk Extent Offset : 1048576
+	Disk Extent Size : 1073741824
+	Disk Extent Type Guid : 
+	Disk Extent Windows Dynamic Disk : False
+	Type : Disk Extent
+	Unique Id : AC:28023942,SV:600508B1001C925E0A4677EE7AB65E23,DE:1
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_DISK_EXTENT 
+================================================================
+
+	Disk Extent Guid : 
+	Disk Extent Mount Point : &#x2F;boot
+	Disk Extent Name : 
+	Disk Extent Number : 2
+	Disk Extent Offset : 1074790400
+	Disk Extent Size : 2147483648
+	Disk Extent Type Guid : 
+	Disk Extent Windows Dynamic Disk : False
+	Type : Disk Extent
+	Unique Id : AC:28023942,SV:600508B1001C925E0A4677EE7AB65E23,DE:2
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_STORAGE_VOLUME 
+================================================================
+
+	Block Size : 512
+	Cylinders : 65535
+	Drive Access Name : &#x2F;dev&#x2F;sdb
+	Heads : 255
+	Native Block Size : 4096
+	Sectors : 63
+	Type : Storage Volume
+	Unique Id : AC:28023942,SV:600508B1001C27155050FB2A5F379495
+	Useable Blocks : 210012536832
+	Useable Bytes : 107526418857984
+	Volume Bus Type : Raid
+	Volume Model : HPE     LOGICAL VOLUME
+	Volume Serial Number : PWXLA0CRHEN0UF
+	Volume Unique Identifier : 600508B1001C27155050FB2A5F379495
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_STORAGE_VOLUME Supported Operations
+	--------------------------------------------------
+		Discover Disk Extents
+
+
+	Device Associations
+	--------------------------------------
+		Storage Volume Device
+			AC:28023942,LD:1
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_SEP 
+================================================================
+
+	Active Path Box : 0
+	Device Number : 379
+	Firmware Revision : 3.53
+	Marketing Name : SEP
+	Product Id : Smart Adapter   
+	Type : Sep
+	Unique Id : AC:28023942,S:379
+	Vendor Id : HPE     
+	Wwid : 51402EC0164DA8B0
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_SEP Supported Operations
+	--------------------------------------------------
+		Read Device Diagnostic Info
+		Read Scsi Command
+
+	Unsupported Operations
+	--------------------------------------------------
+		Read Sep Info :	Not Applicable
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_ARRAY 
+================================================================
+
+	Acceleration Mode : Accelerated Io Path
+	Alignment Largest Gap Blocks : 0
+	Alignment Size : 4096
+	Array Has Unaligned Logical Drives : False
+	Array Label : A
+	Array Number : 0
+	Array On Boot Connector : False
+	Array Type : Data
+	Free Blocks : 0
+	Free Kb : 0
+	Has Fault Tolerant Drive : True
+	Interface : Sata Ssd
+	Last Deleteable Logical Drive : 0
+	Max Aligned Physical Drive Block Size : 0
+	Multi Domain Status : Ok
+	Next Data Offset : 3750683312
+	Percent Free : 0.00
+	Percent Used : 100.00
+	Physical Drive Block Size : 512
+	Ris Blocks Per Physical Drive : 65536
+	Ris Kb Per Physical Drive : 32768
+	Shingled Magnetic Recording Support : None
+	Spare Rebuild Mode : Dedicated
+	Status : Ok
+	Total Blocks Per Physical Drive : 3750748848
+	Total Kb : 3750683312
+	Total Kb Per Physical Drive : 1875374424
+	Type : Array
+	Unique Id : AC:28023942,A:0
+	Used Kb : 3750683312
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_ARRAY Supported Operations
+	--------------------------------------------------
+		Discover Logical Drives
+		Read Array Info
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Write Refresh Logical Drives :	Array Status Ok
+
+
+
+	Device Associations
+	--------------------------------------
+		Data Drive
+			AC:28023942,PD:10
+			AC:28023942,PD:11
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_LOGICAL_DRIVE 
+================================================================
+
+	Aligned : True
+	Array Accelerator : Disabled
+	Blocks Per Drive : 3750683312
+	Block Size : 512
+	Boot Support : Enabled
+	Boot Target : True
+	Caching Association : None
+	Cylinders : 65535
+	Data Offset : 0
+	Drives For Fault Tolerance : 1
+	Drive Mix : False
+	Drive Mix Flag : 6
+	Drive Number : 0
+	Heads : 255
+	Is Big Logical Drive : True
+	Is Volume Hidden : False
+	Logical Drive Accelerator : Io Bypass
+	Logical Drive Name : Raid1_OS
+	Logical Drive Type : Data
+	Missing Drive Count : 0
+	Multi Domain Status : Ok
+	Raid : 1
+	Sectors : 32
+	Signature : 23377870
+	Signature Other : 0
+	Spare Rebuild Mode : Dedicated
+	Status : Ok
+	Stripe Size : 512
+	Stripe Size Full Volume : 512
+	Stripe Size Full Volume Kb : 256
+	Stripe Size Kb : 256
+	Stripe Size Too Large For Transform : False
+	Surface Analysis Blocks Reassigned : 0
+	Surface Analysis Pass Count : 7
+	Surface Analysis Pass Time : 22709
+	Surface Analysis Uncorrected Error : None
+	Total Blocks : 7501366624
+	Type : Logical Drive
+	Unique Id : AC:28023942,LD:0
+	Useable Blocks : 3750683312
+	Volume Size Kb : 1875341656
+	Volume Unique Identifier : 600508B1001C925E0A4677EE7AB65E23
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_LOGICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Mirror Groups
+		Discover Parity Groups
+		Read Device Diagnostic Info
+		Read Logical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Read Expand Rebuild Info :	Not Applicable
+		Read Ssd Cache Stats :	Not Applicable
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Volume Device
+			AC:28023942,SV:600508B1001C925E0A4677EE7AB65E23
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_MIRROR_GROUP 
+================================================================
+
+	Mirror Group Number : 0
+	Type : Mirror Group
+	Unique Id : AC:28023942,LD:0,MG:0
+
+
+	Device Associations
+	--------------------------------------
+		Data Drive
+			AC:28023942,PD:10
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_MIRROR_GROUP 
+================================================================
+
+	Mirror Group Number : 1
+	Type : Mirror Group
+	Unique Id : AC:28023942,LD:0,MG:1
+
+
+	Device Associations
+	--------------------------------------
+		Data Drive
+			AC:28023942,PD:11
+
+
+
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_ARRAY 
+================================================================
+
+	Acceleration Mode : Accelerated Io Path
+	Alignment Largest Gap Blocks : 0
+	Alignment Size : 4096
+	Array Has Unaligned Logical Drives : False
+	Array Label : B
+	Array Number : 1
+	Array On Boot Connector : False
+	Array Type : Data
+	Free Blocks : 0
+	Free Kb : 0
+	Has Fault Tolerant Drive : True
+	Interface : Sas Ssd
+	Last Deleteable Logical Drive : 1
+	Max Aligned Physical Drive Block Size : 0
+	Multi Domain Status : Ok
+	Next Data Offset : 30001790976
+	Percent Free : 0.00
+	Percent Used : 100.00
+	Physical Drive Block Size : 512
+	Ris Blocks Per Physical Drive : 65536
+	Ris Kb Per Physical Drive : 32768
+	Shingled Magnetic Recording Support : None
+	Spare Rebuild Mode : Dedicated
+	Status : Ok
+	Total Blocks Per Physical Drive : 30001856512
+	Total Kb : 120007163904
+	Total Kb Per Physical Drive : 15000928256
+	Type : Array
+	Unique Id : AC:28023942,A:1
+	Used Kb : 120007163904
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_ARRAY Supported Operations
+	--------------------------------------------------
+		Discover Logical Drives
+		Read Array Info
+		Read Device Diagnostic Info
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Write Refresh Logical Drives :	Array Status Ok
+
+
+
+	Device Associations
+	--------------------------------------
+		Data Drive
+			AC:28023942,PD:2
+			AC:28023942,PD:3
+			AC:28023942,PD:8
+			AC:28023942,PD:9
+			AC:28023942,PD:12
+			AC:28023942,PD:13
+			AC:28023942,PD:14
+			AC:28023942,PD:15
+
+
+Controller: HPE Smart Array P816i-a SR Gen10 Slot 25	Device: ATTR_VALUE_TYPE_LOGICAL_DRIVE 
+================================================================
+
+	Aligned : True
+	Array Accelerator : Disabled
+	Blocks Per Drive : 30001790976
+	Block Size : 512
+	Boot Support : Enabled
+	Caching Association : None
+	Cylinders : 65535
+	Data Offset : 0
+	Drives For Fault Tolerance : 1
+	Drive Mix : False
+	Drive Mix Flag : 5
+	Drive Number : 1
+	Heads : 255
+	Is Big Logical Drive : True
+	Is Volume Hidden : False
+	Logical Drive Accelerator : Io Bypass
+	Logical Drive Name : Raid5_Storage
+	Logical Drive Type : Data
+	Missing Drive Count : 0
+	Multi Domain Status : Ok
+	Parity Distribution : Left Asymmetric
+	Parity Initialization Status : Completed
+	Parity Shift : Every 16 Stripes
+	Raid : 5
+	Sectors : 32
+	Signature : 90486964
+	Signature Other : 0
+	Spare Rebuild Mode : Dedicated
+	Status : Ok
+	Stripe Size : 512
+	Stripe Size Full Volume : 3584
+	Stripe Size Full Volume Kb : 1792
+	Stripe Size Kb : 256
+	Stripe Size Too Large For Transform : False
+	Surface Analysis Blocks Reassigned : 0
+	Surface Analysis Pass Count : 7
+	Surface Analysis Pass Time : 135082
+	Surface Analysis Uncorrected Error : None
+	Total Blocks : 240014327808
+	Type : Logical Drive
+	Unique Id : AC:28023942,LD:1
+	Useable Blocks : 210012536832
+	Volume Size Kb : 105006268416
+	Volume Unique Identifier : 600508B1001C27155050FB2A5F379495
+
+
+	HPE Smart Array P816i-a SR Gen10 25 Controller Device: ATTR_VALUE_TYPE_LOGICAL_DRIVE Supported Operations
+	--------------------------------------------------
+		Discover Mirror Groups
+		Discover Parity Groups
+		Read Device Diagnostic Info
+		Read Logical Drive Info
+		Read Scsi Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Read Expand Rebuild Info :	Not Applicable
+		Read Ssd Cache Stats :	Not Applicable
+
+
+
+	Device Associations
+	--------------------------------------
+		Storage Volume Device
+			AC:28023942,SV:600508B1001C27155050FB2A5F379495
+
+
+
+
+
+
+	Controller:    HPE Smart Array P816i-a SR Gen10	Slot:25ATTR_VALUE_TYPE_ARRAY_CONTROLLER Supported Operations
+	--------------------------------------------------
+		Discover Arrays
+		Discover Expanders
+		Discover External Array Controllers
+		Discover Licensed Feature
+		Discover License Keys
+		Discover Physical Drives
+		Discover Ports
+		Discover Remote Volumes
+		Discover Sensors
+		Discover Seps
+		Discover Storage Enclosures
+		Discover Storage Volumes
+		Discover Tape Drives
+		Read Array Controller Info
+		...............................................................
+         Class: ATTR_NAME_RAID 
+                     Instance: ATTR_VALUE_RAID_0
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_1
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_1ADM
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_10
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_10ADM
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_5
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_6
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_50
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+                     Instance: ATTR_VALUE_RAID_60
+                                 Class: ATTR_NAME_STRIPE_SIZE 
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance: 256
+                                             Instance:	 512 (default)
+                                             Instance: 1024
+                                             Instance: 2048
+                                 Class: ATTR_NAME_STRIPE_SIZE_KB 
+                                             Instance: 16
+                                             Instance: 32
+                                             Instance: 64
+                                             Instance: 128
+                                             Instance:	 256 (default)
+                                             Instance: 512
+                                             Instance: 1024
+
+		Read Configuration Data
+		Read Controller Ofa Status
+		Read Debug Log
+		...............................................................
+         Class: ATTR_NAME_LOG_TYPE 
+                     Instance:	 ATTR_VALUE_LOG_TYPE_LAST_CRASH_DUMP (default)
+                                 Class: ATTR_NAME_CLEAR_LOG 
+                                             Instance: ATTR_VALUE_CLEAR_LOG_TRUE
+                                             Instance:	 ATTR_VALUE_CLEAR_LOG_FALSE (default)
+                     Instance: ATTR_VALUE_LOG_TYPE_PAL_SHIM_LOG
+
+		Read Device Diagnostic Info
+		Read Device Led Info
+		Read Pms Data
+		...............................................................
+         Class: ATTR_NAME_RESET_PMS_COUNTERS 
+                     Instance: ATTR_VALUE_RESET_PMS_COUNTERS_TRUE
+                     Instance:	 ATTR_VALUE_RESET_PMS_COUNTERS_FALSE (default)
+         Class: ATTR_NAME_PMS_DATA_TYPE 
+                     Instance:	 ATTR_VALUE_PMS_DATA_TYPE_AVERAGES (default)
+                     Instance: ATTR_VALUE_PMS_DATA_TYPE_RAW
+
+		Read Scsi Command
+		Write Bmic Command
+		Write Device Blink
+		...............................................................
+         Class: ATTR_NAME_BLINK_INTERVAL  [MIN: 0 MAX: 86400]
+                     Instance:	 0 (default)
+         Class: ATTR_NAME_CONCATENATE 
+                     Instance:	 ATTR_VALUE_CONCATENATE_FALSE (default)
+                     Instance: ATTR_VALUE_CONCATENATE_TRUE
+
+		Write Rescan Physical Devices
+		Write Set Pms State
+		...............................................................
+         Class: ATTR_NAME_PMS_STATE 
+                     Instance: ATTR_VALUE_PMS_STATE_ENABLED
+                     Instance: ATTR_VALUE_PMS_STATE_DISABLED
+
+
+	Unsupported Operations
+	--------------------------------------------------
+		Read Array Controller Bootable Status :	Ev Not Supported
+		Write Cache Settings :	Device Not Yet Cached
+		Write Recover Cache Module :	Not Applicable
+
+

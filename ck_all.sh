@@ -1,0 +1,19 @@
+#!/bin/bash
+echo""
+echo "========================APOLLO 6500 G10 Plus========================"
+/home/brijesh/SERVERINFO.sh
+echo""
+/home/brijesh/PROC.sh
+echo""
+/home/brijesh/POWER.sh
+echo""
+/home/brijesh/MEMORY.sh
+echo""
+/home/brijesh/GPU.sh
+echo""
+/home/brijesh/NIC.sh
+echo""
+/home/brijesh/PBS.sh
+echo""
+/home/brijesh/ADU.sh
+echo""
